@@ -1,8 +1,1 @@
-テスト
-TEST
-test
-てすとかもしれない
-conflict
-ターミナルテスト
-aaaa
-2222222222
+aaa
